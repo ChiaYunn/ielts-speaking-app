@@ -52,7 +52,7 @@ const currentWordIndex = ref(-1)
 // 載入文章 JSON
 onMounted(async () => {
   try {
-    const res = await fetch('/cnn_articles.json')
+    const res = await fetch('/ielts-speaking-app/cnn_articles.json')
     const data = await res.json()
     articles.value = data
 

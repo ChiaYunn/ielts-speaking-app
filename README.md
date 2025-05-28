@@ -1,6 +1,6 @@
 # 一個簡單練習英文口說的網頁
 
-    url: 
+    url: http://chiayunn.github.io/ielts-speaking-app/
 
 ## 使用方法：
 上方按鈕可以隨機換文章。
@@ -11,4 +11,8 @@
 
 最下面會輸出你說出的內容。
 
+## 瀏覽器：
+    Chrome（其他有空測試）>,<
+    
+    Safari ＆ Safari 不支援!!
 ### 文章取自 CNN 新聞，有空會更新。
